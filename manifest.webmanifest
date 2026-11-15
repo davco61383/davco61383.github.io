@@ -1,0 +1,15 @@
+{
+  "name": "Elementarium",
+  "short_name": "Elementarium",
+  "description": "Elementarium is a color-coded periodic table. Tap any element for properties, photographs, isotopes, and 3D models, or combine elements to build a compound.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#12110e",
+  "theme_color": "#12110e",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davco61383.github.io/sitemap.xml
