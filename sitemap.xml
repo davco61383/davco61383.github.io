@@ -2,7 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://davco61383.github.io/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://davco61383.github.io/elements/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://davco61383.github.io/about.html</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://davco61383.github.io/privacy.html</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://davco61383.github.io/contact.html</loc>
+    <lastmod>2026-11-17</lastmod>
   </url>
 </urlset>
